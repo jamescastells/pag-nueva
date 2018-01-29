@@ -1,0 +1,18 @@
+Phd. Xavier Ochoa,Director de CTI,7006,xochoa@cti.espol.edu.ec,Xavier_Ochoa.jpg
+Phd. Federico Domínguez,Director del Laboratorio de Prototipado,7000,federico.dominguez@cti.espol.edu.ec,Federico_Dominguez.jpg
+Ing. Gerald Jimenez,Director de departamento técnico,7032,gjimenez@cti.espol.edu.ec,Gerald_Jimenez.jpg
+Ing. Bruno Guamán,Integrante del Laboratorio de Interacción Hombre Máquina,7026,bguaman@cti.espol.edu.ec,Bruno_Guaman.jpg
+Ing. Jaime Castells,Integrante del Laboratorio de Interacción Hombre Máquina,7068,jaime.castells@cti.espol.edu.ec,Jaime_Castells.jpg
+Ing. Vanessa Heredia,Desarrolladora Web,7042,estefania.heredia@cti.espol.edu.ec,Vanessa_Heredia.jpg
+Ing. Alfonsina Ochoa,Desarrolladora Web,7040,alfonsina.ochoa@cti.espol.edu.ec,Alfonsina_Ochoa.jpg
+Ing. Manuel Olvera,Desarrollador Web,7042,manuel.olvera@cti.espol.edu.ec,Manuel_Olvera.jpg
+Ing. Alberto Jimenez,Desarrollador Web,7048,alberto.jimenez@cti.espol.edu.ec,Alberto_Jimenez.jpg
+Maria Fernanda Vargas,Contabilidad,7013,mvargas@cti.espol.edu.ec,Maria_Fernanda_Vargas.jpg
+Lcda. Yadira Andrade,Recursos Humanos,7002,yandrade@cti.espol.edu.ec,Yadira_Andrade.jpg
+Msc. Margarita Ortiz,Investigadora,7062,margarita.ortiz@cti.espol.edu.ec,Margarita_Ortiz.jpg
+Ing. Bryan Garcés,Desarrollador Web,7008,bryan.garces@cti.espol.edu.ec,Bryan_Garces.png
+Irving Valeriano,Técnico,7053,irving.valeriano@cti.espol.edu.ec,Irving_Valeriano.jpg
+Fernando Campaña,Integrante del Laboratorio de Prototipado,7075,fernando.campaña@cti.espol.edu.ec,Fernando_Campana.jpg
+Ing. Gabriel Falcones,Integrante del Laboratorio de Interacción Hombre Máquina,7074,gabriel.falcones@cti.espol.edu.ec,Gabriel_Falcones.jpg
+Ing. Ricardo Maya,Integrante del Laboratorio de Interacción Hombre Máquina,7074,ricardo.maya@cti.espol.edu.ec,Ricardo_Maya.jpg
+Carlos León,Integrante del Laboratorio de Prototipado,7075,carlos.leon@cti.espol.edu.ec,Carlos_Leon.jpg

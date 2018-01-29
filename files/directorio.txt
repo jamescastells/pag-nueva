@@ -1,0 +1,24 @@
+PhD. Enrique Peláez,Director de CTI,7030,epelaez@cti.espol.edu.ec,DrPelaez.jpg,Director,
+PhD. Katherine Chiluiza,Directora de programa DHT y TCT,7031,kchilui@cti.espol.edu.ec,katherine.jpg,TCT,DHT
+PhD. Sixto García,Director de programa TAI,7080,sgarcia@cti.espol.edu.ec,DrSIxto.jpg,TAI,
+PhD. Xavier Ochoa,Director de programa TEA,7006,xavier@cti.espol.edu.ec,DrOchoa.jpg,TEA,REALIDAD_VIRTUAL
+PhD. Federico Domínguez,Coordinador de Laboratorio de Prototipado,7000,federico.dominguez@cti.espol.edu.ec,federico.jpg,PROTOTIPADO,
+Ing. Gerald Jiménez,Administrador tecnológico,7032,gjimenez@cti.espol.edu.ec,gerald.jpg,Tecnico,
+Ing. Bruno Guamán,Ayudante de investigación,7026,bguaman@cti.espol.edu.ec,bruno.jpg,TCT,REALIDAD_VIRTUAL
+Ing. Jaime Castells,Ayudante de investigación,7068,jaime.castells@cti.espol.edu.ec,jaime.jpg,TCT,REALIDAD_VIRTUAL
+Ing. Vanessa Heredia,Ayudante de investigación,7065,estefania.heredia@cti.espol.edu.ec,vanessita.jpg,TAI,
+Ing. Alfonsina Ochoa,Ayudante de investigación,7067,alfonsina.ochoa@cti.espol.edu.ec,alfonsina.jpg,TAI,
+Ing. Manuel Olvera,Ayudante de investigación,7042,manuel.olvera@cti.espol.edu.ec,manuel.jpg,TAI,
+Ing. Alberto Jimenez,Ayudante de investigación,7048,alberto.jimenez@cti.espol.edu.ec,alberto.jpg,TEA,
+Lcda. Yadira Andrade,Recursos humanos,7002,yandrade@cti.espol.edu.ec,Yadira.jpg,Otros,
+Lcda. María Fernanda Várgas,Contabilidad,7013,mvargas@cti.espol.edu.ec,mafer.jpg,Otros,
+MSc. Margarita Ortiz,Ayudante de investigación,7062,margarita.ortiz@cti.espol.edu.ec,margarita.jpg,DHT,
+MSc. David Jurado,Ayudante de investigación,7077,djurado@cti.espol.edu.ec,davidjurado.jpg,PROTOTIPADO,
+Ing. Jorge Salas,Ayudante de investigación,7069,jorge.salas@cti.espol.edu.ec,jorgesalas.jpg,TEA,
+Ing. Bryan Garcés,Ayudante de investigación,7008,bryan.garces@cti.espol.edu.ec,brian.png,TCT,
+Irving Valeriano,Técnico,7053,irving.valeriano@cti.espol.edu.ec,irving.jpg,Tecnico,
+Fernando Campaña,Ayudante de investigación,7075,fernando.campana@cti.espol.edu.ec,fernando.jpg,PROTOTIPADO,
+Ing. Gabriel Falcones,Ayudante de investigación,7074,gabriel.falcones@cti.espol.edu.ec,gabriel.jpg,TCT,
+Ing. Ricardo Maya,Ayudante de investigación,7074,ricardo.maya@cti.espol.edu.ec,ricardo.jpg,TCT,
+Harlyn Pichardo,Técnico,7053,steven.pichardo@cti.espol.edu.ec,harlyn.jpg,Tecnico,
+Carlos León,Ayudante de investigación,7075,carlos.leon@cti.espol.edu.ec,carlosleon.jpg,PROTOTIPADO,
